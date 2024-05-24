@@ -1,0 +1,3 @@
+-tokenizer: bert-base-cased
+-plm: bert-base-cased
+-lm_size: 768
